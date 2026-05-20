@@ -1,5 +1,7 @@
 # Schedule for Workshop
 
+The goal of this workshop is to learn how to think through what you want to accomplish when you are encoding texts, and how the LEAF Commons tools might help you in your production and publication workflow.
+
 ## DAY 1 (Tuesday):
 
 _Fundamentals_ 
@@ -10,6 +12,9 @@ _Fundamentals_
 ## Day 2 (Wednesday):
 
 _Analysis_ 
+
+On Day 2 we'll turn our attention to meaning within the texts, how you can leverage information about named entities within the texts, and explore ways in which your encoding can help you to tease out concepts and themes. 
+
 * Testing NERVE
 * More entity tagging
 * Setting up Dynamic Table of Contexts
